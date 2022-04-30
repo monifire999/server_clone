@@ -1,0 +1,9 @@
+คำสั่งยิงดิสทั้งหมด
+
+1. /create_channel [ตั้งชื่อ] [จำนวน]   (สร้าง channel)
+2. /delete_channel  (ลบ channel ทั้งหมด)
+3. /create_role [ตั้งชื่อ] [จำนวน]   (สร้างบทบาท)
+4. /delete_role   (ลบบทบาท)
+5. /webhooks_spam   (สแปม webhooks
+
+**token ใส่ในไฟล์ tokens.txt เท่านั้น**
